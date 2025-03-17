@@ -64,7 +64,3 @@ Sempre que houver um `push` na branch `main`, o GitHub Actions executará automa
 2. Execução dos testes unitários
 3. Construção da imagem Docker
 4. Execução do container em uma porta aleatória
-
-## 📜 Licença
-Este projeto está sob a licença MIT.
-

@@ -55,7 +55,7 @@ docker build -t hello-world-app .
 ```bash
 docker run -d -p 0:5000 --name hello-world-container hello-world-app
 ```
-Acesse `http://localhost:5000` no navegador.
+Acesse o container pelo navegador.
 
 ## 🔄 Integração Contínua
 Sempre que houver um `push` na branch `main`, o GitHub Actions executará automaticamente os seguintes passos:

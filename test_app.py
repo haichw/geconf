@@ -3,4 +3,4 @@ import app
 def test_hello():
     client = app.app.test_client()
     response = client.get("/")
-    assert response.data == b"Hello, world!"
+    assert response.data == b"Hello, world teste final final"

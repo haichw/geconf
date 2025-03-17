@@ -24,7 +24,7 @@ Este projeto consiste em uma API simples utilizando Flask, integrada a um pipeli
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/haichw/geconf.git
 cd seu-repositorio
 ```
 
